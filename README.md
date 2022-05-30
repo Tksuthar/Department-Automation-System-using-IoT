@@ -1,14 +1,14 @@
 # Department-Automation-System-using-IoT
 
 
-#Project Description
+## Project Description
 
 Department Automation System using IoT is a proposed project implementation in Poornima Group of Institutions, Jaipur. This project we have developed as our final year project. We have used Node MCU cicuit to enable connectivity between hardware and software applications. Also, we are controlling all the electrical appliances in our department that works at 230 Volt, for this, we have used relays to operate appliances that works at 230V. 
 
-#Software Used
+## Software Used
 1. Arduino UNO
 
-#Hardware Components
+## Hardware Components
 1. Node MCU Circuit
 2. Relays
 3. Bulb Holder
@@ -17,5 +17,5 @@ Department Automation System using IoT is a proposed project implementation in P
 6. 5V Supply Source
 7. 230V Supply Source
 
-#Other's Technology Used
+## Other's Technology Used
 1. FastAPI - Developed an API and hosted on Microsoft Azure Web APP instance. The API is requierd to get the states of the appliances weither ON or OFF. 
