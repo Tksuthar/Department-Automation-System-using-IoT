@@ -2,6 +2,7 @@
 
 
 #Project Description
+
 Department Automation System using IoT is a proposed project implementation in Poornima Group of Institutions, Jaipur. This project we have developed as our final year project. We have used Node MCU cicuit to enable connectivity between hardware and software applications. Also, we are controlling all the electrical appliances in our department that works at 230 Volt, for this, we have used relays to operate appliances that works at 230V. 
 
 #Software Used
