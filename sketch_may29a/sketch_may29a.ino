@@ -95,3 +95,6 @@ String httpGETRequest(const char* serverName) {
 
   return payload;
 }
+
+
+// Commment added by Developer2
